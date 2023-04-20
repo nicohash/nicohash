@@ -1,4 +1,4 @@
-### Hi there, im @nicohash
+### Hi there, I'm
 
 ```plaintext
        .__             .__                  .__     
