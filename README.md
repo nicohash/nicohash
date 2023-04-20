@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```plaintext
+       .__             .__                  .__     
+  ____ |__| ____  ____ |  |__ _____    _____|  |__  
+ /    \|  |/ ___\/  _ \|  |  \\__  \  /  ___/  |  \ 
+|   |  \  \  \__(  <_> )   Y  \/ __ \_\___ \|   Y  \
+|___|  /__|\___  >____/|___|  (____  /____  >___|  /
+     \/        \/           \/     \/     \/     \/ 
+```
+
 <!--
 **nicohash/nicohash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
